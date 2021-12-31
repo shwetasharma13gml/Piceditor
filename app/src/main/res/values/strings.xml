@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Piceditor</string>
+    <string name="facebookbtn">facebookbtn</string>
+    <string name="camera">Camera</string>
+    <string name="edit">Edit</string>
+    <string name="pic_editor">Pic Editor</string>
+    <string name="edit_crop_explore">Edit,Crop,Explore</string>
+    <string name="text">text</string>
+</resources>
